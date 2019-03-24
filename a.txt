@@ -1,8 +1,5 @@
 lalalalaalllalalallala
 today is a perfert day
 add a brancd dev
-<<<<<<< HEAD
 creating a new branch is quick and simple
-=======
-creatint a new branch is quick and simple
->>>>>>> featurel
+and merge
